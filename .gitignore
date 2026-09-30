@@ -1,0 +1,12 @@
+# Original coursework, documents and archive retained locally
+/Mid/
+/Final/
+
+# Reproducible run caches and editor artifacts
+midterm_project/.cache/
+final_project/.cache/
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
