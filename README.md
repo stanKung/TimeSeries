@@ -1,6 +1,6 @@
 # Time Series Projects
 
-Two course projects applying statistical methods to economic and financial time series. Each project includes a runnable notebook, the datasets it uses, and selected figures. / 本儲存庫整理了兩個課程專案，包含分析 Notebook、所需數據與代表圖。
+Two course projects applying statistical methods to economic and financial time series. Each project includes a runnable notebook, the datasets it uses, and selected figures.
 
 | Project | Methods |
 |---|---|
